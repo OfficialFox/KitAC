@@ -1,0 +1,4 @@
+name: KitAC
+version: '1.0'
+main: nl.officialfox.kitac.KitAC
+api-version: '1.13'
